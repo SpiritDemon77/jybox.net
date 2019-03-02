@@ -589,3 +589,15 @@
     github: 'er567'
     v2ex: 'er567'
     zhihu: '静夜'
+-
+  name:
+    display: 'Spirit Demon'
+  avatar: 'admin@spiritdemon.com'
+  blog: 'https://www.spiritdemon.com'
+  profile:
+    location: '江苏苏州'
+    birthday: '1994'
+  sns:
+    github: 'spiritdemon77'
+    twitter: 'spiritdemon77'
+    instagram: 'spiritdemon77'
